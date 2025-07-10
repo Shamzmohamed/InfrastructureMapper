@@ -76,6 +76,7 @@
           pkgs.yamllint
           pkgs.yamlfmt
           pkgs.actionlint # for checking gh actions
+          pkgs.bearer
           postgresWithPostGIS
           pkgs.nodePackages.cspell
           (pkgs.python3.withPackages (ps: [
